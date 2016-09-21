@@ -25,7 +25,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: rfhayashi.docker_vagrant }
+         - { role: rfhayashi.docker-vagrant }
 
 License
 -------
