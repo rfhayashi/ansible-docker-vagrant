@@ -14,5 +14,5 @@ galaxy_info:
     - vagrant
 
 dependencies:
-  - name: rfhayashi.docker
+  - role: rfhayashi.docker
     version: '0.1'
