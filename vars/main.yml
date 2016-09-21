@@ -1,2 +1,3 @@
 ---
-# vars file for docker-vagrant
+docker_users:
+  - vagrant
