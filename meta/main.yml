@@ -13,4 +13,6 @@ galaxy_info:
     - centos
     - vagrant
 
-dependencies: []
+dependencies:
+  - name: rfhayashi.docker
+    version: 0.1
