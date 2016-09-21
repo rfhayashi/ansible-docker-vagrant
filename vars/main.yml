@@ -1,3 +1,5 @@
 ---
 docker_users:
   - vagrant
+docker_options:
+  --registry-mirror=http://{{ registry_address }} --insecure-registry={{ registry_address }}
