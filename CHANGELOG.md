@@ -7,8 +7,7 @@
 ### Added ###
 
   - Initial release
-  - Adds vagrant user to docker group
-  - Support for running docker engine using an insecure registry
+  - Installs test-kitchen, kitchen-ansible and kitchen-docker
 
 [Unreleased]: https://github.com/rfhayashi/ansible-docker-vagrant/compare/0.1...HEAD
-[0.1]: https://github.com/rfhayashi/ansible-docker-vagrant/compare/c0e672b291cd25500289ecb75a7437fae105b1d8...0.1
+[0.1]: https://github.com/rfhayashi/ansible-docker-vagrant/compare/c18747792a6dc7a4cf6553dfa6071609e5d93fed...0.1
